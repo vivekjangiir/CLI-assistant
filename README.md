@@ -2,7 +2,7 @@
 
 > A smart, beautiful terminal companion — AI answers, web search, tasks, notes, file tools, and code helpers, all from your command line.
 
-**By [@vivekjangiir](https://github.com/vivekjangiir)**  
+**By [@vieveksharmaa](https://github.com/vieveksharmaa)**  
 Powered by [Groq](https://console.groq.com) (free API) + DuckDuckGo search
 
 ---
@@ -25,7 +25,7 @@ Powered by [Groq](https://console.groq.com) (free API) + DuckDuckGo search
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/vivekjangiir/CLI-assistant.git
+git clone https://github.com/vieveksharmaa/CLI-assistant.git
 cd CLI-assistant
 ```
 
